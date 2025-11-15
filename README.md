@@ -35,10 +35,10 @@ Táto textová databáza môže slúžiť na rôzne účely:
 
 Ak tento repozitár alebo jeho časti používate pri svojom .
 
-**Author:** Adam Gábor  
+**Autor:** Adam Gábor  
 **ORCID:** https://orcid.org/0009-0001-9252-5976  
-**Affiliation:** Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava  
-**Year:** 2025
+**Organizácia:** Fakulta informatiky a informačných technológií, Slovenská Technická Univerzita v Bratislave  
+**Rok:** 2025
 
 **Example citation:**
-Gábor, A. (2025). Slovenská poézia - Dataset. Získané z https://github.com/xgabora/Club-Football-Match-Data-2000-2025/.
+Gábor, A. (2025). Slovenská poézia - Dataset. Získané z https://github.com/xgabora/Slovenska-Poezia-Dataset/.
