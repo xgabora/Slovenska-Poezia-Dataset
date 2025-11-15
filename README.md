@@ -40,5 +40,5 @@ Ak tento repozitár alebo jeho časti používate pri svojom .
 **Organizácia:** Fakulta informatiky a informačných technológií, Slovenská Technická Univerzita v Bratislave  
 **Rok:** 2025
 
-**Example citation:**
-Gábor, A. (2025). Slovenská poézia - Dataset. Získané z https://github.com/xgabora/Slovenska-Poezia-Dataset/.
+**Príklad citácie:**
+Gábor, A. (2025). Slovenská poézia - Dataset. Dostupné online: https://github.com/xgabora/Slovenska-Poezia-Dataset/.
